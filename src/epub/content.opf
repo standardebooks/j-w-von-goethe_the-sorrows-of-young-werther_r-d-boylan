@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/j-w-von-goethe/the-sorrows-of-young-werther/r-d-boylan</dc:identifier>
+		<dc:date>1900-01-01T00:00:00Z</dc:date>
+		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<meta property="se:revision-number">0</meta>
+		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
+		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<link href="onix.xml" rel="onix-record"/>
+		<dc:title id="title">The Sorrows of Young Werther</dc:title>
+		<meta property="file-as" refines="#title">Sorrows of Young Werther, The</meta>
+		<dc:subject id="subject-1">Germany -- Social life and customs -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Unrequited love -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Young men -- Germany -- Fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">https://lccn.loc.gov/2006932752</meta>
+		<meta property="meta-auth" refines="#subject-2">https://lccn.loc.gov/2006932752</meta>
+		<meta property="meta-auth" refines="#subject-3">https://lccn.loc.gov/2006932752</meta>
+		<meta property="se:subject">Germany</meta>
+		<meta property="se:subject">Romanticism</meta>
+		<meta property="se:subject">Epistolary</meta>
+		<meta property="se:subject">Class</meta>
+		<meta property="se:subject">Unrequited Love</meta>
+		<meta property="se:subject">Suicide</meta>
+		<dc:description id="description">Goethe's first major work, a novel of unrequited love, longing, and self-actualization.</dc:description>
+		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
+		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
+			LONGDESCRIPTION
+		]]></meta>
+		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/2527</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/007104616</dc:source>
+		<meta property="se:word-count">WORDCOUNT</meta>
+		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Sorrows_of_Young_Werther</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-w-von-goethe_the-sorrows-of-young-werther_r-d-boylan</meta>
+		<dc:creator id="author">J. W. von Goethe</dc:creator>
+		<meta property="file-as" refines="#author">Goethe, J. W. von</meta>
+		<meta property="se:name.person.full-name" refines="#author">Johann Wolfgang von Goethe</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n83041529</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="translator">R. D. Boylan</dc:contributor>
+		<meta property="file-as" refines="#translator">Boylan, R. D.</meta>
+=		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nr88002626</meta>
+		<meta property="display-seq" refines="#translator">1</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<dc:contributor id="artist">Paul Cézanne</dc:contributor>
+		<meta property="file-as" refines="#artist">Cézanne, Paul</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_Cézanne</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79055446</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">Michael Potter, and Irene Potter</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Potter, Irene</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Michael Potter</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Potter, Michael</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Geoff Coffey</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Coffey, Geoff</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://gwcoffey.com/</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+	</metadata>
+	<manifest>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+	</manifest>
+	<spine>
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="uncopyright.xhtml"/>
+	</spine>
+</package>
