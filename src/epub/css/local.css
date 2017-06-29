@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-p[epub|type~="se:letter:dateline"] {
+p[epub|type~="se:letter.dateline"] {
 	text-align: right;
 	font-variant: small-caps;
 	font-weight: bold;
