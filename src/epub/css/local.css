@@ -5,4 +5,5 @@ p[epub|type~="se:letter.dateline"] {
 	text-align: right;
 	font-variant: small-caps;
 	font-weight: bold;
+	margin-top: 1em;
 }

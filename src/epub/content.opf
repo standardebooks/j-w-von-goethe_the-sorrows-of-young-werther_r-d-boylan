@@ -19,22 +19,27 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Sorrows of Young Werther</dc:title>
 		<meta property="file-as" refines="#title">Sorrows of Young Werther, The</meta>
-		<dc:subject id="subject-1">Germany -- Social life and customs -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Unrequited love -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Young men -- Germany -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Germany — Social life and customs — Fiction</dc:subject>
+		<dc:subject id="subject-2">Unrequited love — Fiction</dc:subject>
+		<dc:subject id="subject-3">Young men — Germany — Fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://lccn.loc.gov/2006932752</meta>
 		<meta property="meta-auth" refines="#subject-2">https://lccn.loc.gov/2006932752</meta>
 		<meta property="meta-auth" refines="#subject-3">https://lccn.loc.gov/2006932752</meta>
 		<meta property="se:subject">Germany</meta>
+		<meta property="se:subject">Sturm und Drang</meta>
 		<meta property="se:subject">Romanticism</meta>
 		<meta property="se:subject">Epistolary</meta>
 		<meta property="se:subject">Class</meta>
 		<meta property="se:subject">Unrequited Love</meta>
 		<meta property="se:subject">Suicide</meta>
-		<dc:description id="description">Goethe's first major work, a novel of unrequited love, longing, and self-actualization.</dc:description>
+		<dc:description id="description">Goethe’s first major work, a novel of unrequited love, longing, and deterioration into sorrow.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONGDESCRIPTION
+			<p>The Great Lisbon Earthquake of 1755 leveled the city of Lisbon and surrounding areas, and killed perhaps as many and 100,000 people. It came at a decisive time in the history of western thought: the melding of Faith, Philosophy, and Science into a post-enlightenment rational view of the universe. In some sense mankind had just begun to believe he had the universe figured out when the universe struck back with a tragedy so terrible in scale it could not be fit into any box of understanding. It was not predicted. It could not have been prevented. It was not rational. And it certainly could not have been the will of a benevolent God.</p>
+			<p>Lisbon was only one moment in a much larger context—industrialization was upending a pre-historic way of life, science was upending nature, and the first great republics in American and France were about to upend previously unchalleneged forms of government. It was the awe, inspriation, and uncertainty of all this change that gave rise, ultimately, to Romanticism in art, literature, and music.</p>
+			<p>J. W. Goethe is, by some accounts, the father of the romantic period in literature, or at least the proto-romantic <i xml:lang="de-DE">Sturm und Drang</i> (or “Storm and Sress”) period. And this book, <i>The Sorrows of Young Werther</i> was it’s genisis. It was Goethe’s first major work, an immediate sensation upon publication, and made Goethe a household name.</p>
+			<p>While Voltaire parodied rationalism in <i>Candide</i>, Goethe transcended it with the semi-autobiographical story of Werther, a young man governed more by his emotions than his reason, a man who’s only employment is his delight in the romantic ideals of pastoral life he finds in the rural town of Walheim. It is there he finds Charlotte, and in her an idealized but unobtainable old-world domesticity. Werther’s internal dialog about his growing obsession with Charlotte, and his inability to cope rationally with the fact that she is enagegd to—and in love with—another man, form the bulk of the book in the form of a series of ever more intense letters to a friend.</p>
+			<p>Werther’s descent into sorrow has captivated readers for centuries, helped by Goethe’s itensely beautiful prose (translated here by R. D. Boylan), ehchanting imagery, and obvious reverence for nature and a dying past.</p>
 		]]></meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
@@ -83,16 +88,16 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/book-1.xhtml" id="book-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/book-2.xhtml" id="book-2.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/epilogue.xhtml" id="epilogue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/epilogue.xhtml" id="epilogue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
