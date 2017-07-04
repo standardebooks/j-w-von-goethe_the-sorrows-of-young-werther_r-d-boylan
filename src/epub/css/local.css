@@ -8,7 +8,7 @@ p[epub|type~="se:letter.dateline"] {
 	margin-top: 1em;
 }
 
-p[epub|type~="se:letter.dateline"] + p:nth-child(2) {
+p[epub|type~="se:letter.dateline"] + p {
 	text-indent: 0;
 }
 
