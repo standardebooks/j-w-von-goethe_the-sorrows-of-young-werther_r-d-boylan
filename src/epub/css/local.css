@@ -11,3 +11,7 @@ p[epub|type~="se:letter.dateline"] {
 p[epub|type~="se:letter.dateline"] + p:nth-child(2) {
 	text-indent: 0;
 }
+
+abbr.name {
+	white-space: nowrap;
+}
