@@ -69,10 +69,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Nathan_Haskell_Dole</meta>
 		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n50027251</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
-		<dc:contributor id="artist">Paul Cézanne</dc:contributor>
-		<meta property="file-as" refines="#artist">Cézanne, Paul</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_Cézanne</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79055446</meta>
+		<dc:contributor id="artist">Orest Adamovich Kiprenskiĭ</dc:contributor>
+		<meta property="file-as" refines="#artist">Kiprenskiĭ, Orest Adamovich</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Orest_Kiprensky</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82011745</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Irene Potter</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Potter, Irene</meta>
