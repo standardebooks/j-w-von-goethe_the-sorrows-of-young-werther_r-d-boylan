@@ -1,6 +1,12 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+/* don't indent blockquote letters in the main chapters (only in the epilogue) */
+section[epub|type~="chapter"] blockquote[epub|type~="z3998:letter"] {
+	margin-left: 0;
+	margin-right: 0;
+}
+
 p[epub|type~="se:letter.dateline"] {
 	text-align: right;
 	font-variant: small-caps;
