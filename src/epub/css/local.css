@@ -8,10 +8,9 @@ section[epub|type~="chapter"] blockquote[epub|type~="z3998:letter"]{
 }
 
 p[epub|type~="se:letter.dateline"]{
-	text-align: right;
 	font-variant: small-caps;
 	font-weight: bold;
-	margin-top: 1em;
+	text-align: right;
 }
 
 p[epub|type~="se:letter.dateline"] + p{
