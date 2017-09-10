@@ -5,11 +5,12 @@
 section[epub|type~="part"] blockquote[epub|type~="z3998:letter"]{
 	margin-left: 0;
 	margin-right: 0;
+	margin-bottom: 0;
+	margin-top: 3em;
 }
 
 p[epub|type~="se:letter.dateline"]{
 	font-variant: small-caps;
-	font-weight: bold;
 	text-align: right;
 }
 
