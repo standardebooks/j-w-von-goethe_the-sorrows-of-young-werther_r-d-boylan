@@ -64,7 +64,6 @@
 		<dc:contributor id="translator">R. D. Boylan</dc:contributor>
 		<meta property="file-as" refines="#translator">Boylan, R. D.</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nr88002626</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="editor">Nathen Haskell Dole</dc:contributor>
 		<meta property="file-as" refines="#editor">Dole, Nathen Haskell</meta>
