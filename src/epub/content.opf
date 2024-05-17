@@ -38,6 +38,8 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">Goethe’s first major work, a novel of unrequited love, longing, and deterioration into sorrow.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The Great Lisbon Earthquake of 1755 leveled the city of Lisbon and surrounding areas, and killed perhaps as many as 100,000 people. It came at a decisive time in the history of western thought: the melding of Faith, Philosophy, and Science into a post-enlightenment rational view of the universe. In some sense mankind had just begun to believe he had the universe figured out when the universe struck back with a tragedy so terrible in scale it could not be fit into any box of understanding. It was not predicted. It could not have been prevented. It was not rational. And it certainly could not have been the will of a benevolent God.&lt;/p&gt;
