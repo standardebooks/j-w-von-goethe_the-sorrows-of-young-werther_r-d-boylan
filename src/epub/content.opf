@@ -71,8 +71,8 @@
 		<meta property="file-as" refines="#translator">Boylan, R. D.</meta>
 		<link href="https://id.loc.gov/authorities/names/nr88002626.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="editor">Nathen Haskell Dole</dc:contributor>
-		<meta property="file-as" refines="#editor">Dole, Nathen Haskell</meta>
+		<dc:contributor id="editor">Nathan Haskell Dole</dc:contributor>
+		<meta property="file-as" refines="#editor">Dole, Nathan Haskell</meta>
 		<link href="https://en.wikipedia.org/wiki/Nathan_Haskell_Dole" refines="#editor" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50027251.html" refines="#editor" rel="schema:sameAs"/>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
